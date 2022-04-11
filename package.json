@@ -1,0 +1,17 @@
+{
+  "name": "optimization-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Paulo Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^6.1.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "express-rate-limit": "^6.3.0"
+  }
+}
